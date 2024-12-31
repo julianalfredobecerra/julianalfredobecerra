@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currenlty studying
+🔭 I’m currently working on my Bachelor's Degree in Software Development at Brigham Young University - Idaho
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@ I am currenlty studying
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
